@@ -1,0 +1,656 @@
+.icon ,img{
+    display: inline;
+    position: relative;
+    left: 83px;
+    
+}
+.icon{
+    position: relative;
+    left: 150px;
+}
+.header,h2{
+    display: inline;
+    position: relative;
+    left: 90px;
+}
+.header{
+    position: relative;
+    left: 150px;
+}
+.navbar,nav,ul,li{
+    display: inline;
+    padding-left: 1%;
+    position:relative;
+    left: 190px;
+    cursor: pointer;
+}
+button{
+    background-color: rgb(88, 181, 88);
+    width: 11%;
+    height: 40px;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+    transition: 3s;
+   
+}
+
+.task2{
+    display: block;
+    background-color: rgb(245, 245, 245);
+    position: relative;
+    height: 450px;
+    }
+
+.img1{
+    position: relative;
+    left: 55%;
+    top:50px;
+    
+}
+.imglefco{
+    position: relative;
+    bottom: 230px;
+    left: 250px;
+    
+}
+.h1tex{
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.task3{
+    display: block;
+    position:relative;
+    
+}
+.belowimg1{
+    position: relative;
+    text-align: center;
+    color: dimgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img2{
+   position: relative;
+   
+}
+.task4{
+    display: block;
+    position: relative;
+}
+.belowimg2{
+    position: relative;
+    text-align: center;
+    color: dimgrey;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.task5{
+    display:block;
+    position: relative;
+    right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.leftpart1{
+    display:block ;
+    position: relative;
+    text-align:center;
+    right: 450px; 
+    color: dimgray; 
+}
+.midpart1{
+    display: block;
+    position: relative;
+    text-align: center;
+    bottom: 190px;
+    right: 50px;
+    color: dimgray;
+}
+.rightpart1{
+    display: block;
+    position: relative;
+    text-align: center;
+    left: 350px;
+    bottom: 410px;
+    color: dimgray;
+}
+.p1{
+    display: block;
+    position: relative;
+    left: 100px;
+    color: dimgrey;
+}
+.p2{
+    display: block;
+    position: relative;
+    left: 100px;
+    color: dimgrey;
+}
+.p3{
+    display: block;
+    position: relative;
+    left: 100px;
+    color: dimgrey;
+
+}
+.task6{
+    display: block;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img3{
+    position: relative;
+    bottom: 380px;
+    left: 70px;
+}
+.imgrightco{
+    position: relative;
+    left: 650px;
+    bottom: 750px;
+    color: dimgrey;
+}
+.task7{
+    display: block;
+    position: relative;
+    background-color: rgb(245, 245, 245);
+    height: 250px;
+    bottom: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h1tex2{
+    position: relative;
+    left: 220px;
+    top: 50px;
+    color: dimgrey;
+
+}
+.img4{
+    display: block;
+    position: relative;
+    color: dimgray;
+}
+.img41{
+    position: relative;
+    left: 700px;
+    bottom: 140px;
+
+}
+.img42{
+    position: relative;
+    left: 1100px;
+    bottom: 240px;
+}
+.img43{
+    position: relative;
+    left: 700px;
+    bottom: 210px;
+}
+.img44{
+    position: relative;
+    left: 1100px;
+    bottom:310px
+}
+.p4{
+    position: relative;
+    left: 140px;
+}
+.p5{
+    position: relative;
+    left: 140px;
+}
+.p6{
+    position: relative;
+    left: 140px;
+}
+.p7{
+    position: relative;
+    left: 140px;
+}
+.task8{
+    display: block;
+    position: relative;
+    bottom: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img5{
+    position: relative;
+    bottom: 380px;
+    left: 60px;
+}
+.imgrightco1{
+    position: relative;
+    left: 650px;
+    bottom: 750px;
+    color: dimgrey;
+
+
+}
+.task9{
+    display: block;
+    position: relative;
+    bottom: 700px;
+    background-color: rgb(245, 245, 245);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 400px;
+}
+.img6{
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+.imgrightco2{
+    position: relative;
+    left: 650px;
+    bottom: 350px;
+}
+.p8{
+    color: dimgrey;
+}
+.p9{
+    color: rgb(186, 184, 181);
+    position: relative;
+    top: 10px;
+}
+.img71{
+    position: relative;
+    left: 564px;
+    bottom: 300px;
+}
+.img72{
+    position: relative;
+    left: 660px;
+    bottom: 340px;
+}
+.img73{
+    position: relative;
+    left: 750px;
+    bottom: 375px;
+}
+.img74{
+    position: relative;
+    left: 850px;
+    bottom:410px;
+}
+.img75{
+    position: relative;
+    left: 950px;
+    bottom: 440px;
+}
+.img76{
+    position: relative;
+    left: 1040px;
+    bottom: 470px;
+}
+.button1{
+    
+    color: rgb(88, 181, 88);
+    background-color: rgb(245, 245, 245);
+    position: relative;
+    left: 1200px;
+    bottom: 506px;
+    width: 10%;
+    font-size:medium;
+    cursor: pointer;
+
+}
+.task10{
+    display: block;
+    position: relative;
+    left: 550px;
+    bottom: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: dimgrey;
+    font-size: larger;
+}
+.p10{
+    text-align: center;
+    position: relative;
+    right:500px;
+}
+.task11{
+    display: block;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: dimgray;
+    bottom: 600px;
+    left: 100px;
+}
+.boxcontent1{
+    display: block;
+    position: relative;
+    text-align: center;
+    box-shadow: 2px 2px 10px;
+    width: 300px;
+    border-radius: 5px;
+    bottom: 120px;
+    left: 120px;
+    background-color: white;
+    height: 200px;
+    font-size: larger;
+}
+.button2{
+    color: rgb(88, 181, 88);
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    width: 300px;
+    font-size:medium;
+    position: relative;
+    top: 40px;
+    font-weight: 600;
+    cursor: pointer;
+    
+}
+.p11{
+    position: relative;
+    top: 30px;
+}
+
+.boxcontent2{
+    display: block;
+    position: relative;
+    text-align: center;
+    box-shadow: 2px 2px 10px;
+    width: 300px;
+    border-radius: 5px;
+    bottom: 120px;
+    left: 120px;
+    background-color: white;
+    height: 200px;
+    font-size: larger;
+
+}
+.button3{
+    color: rgb(88, 181, 88);
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    width: 300px;
+    font-size:medium;
+    position: relative;
+    top: 40px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.p12{
+    position: relative;
+    top: 30px;
+}
+.midpart2{
+    position: relative;
+    left: 400px;
+    bottom: 510px;
+}
+.boxcontent3{
+    display: block;
+    position: relative;
+    text-align: center;
+    box-shadow: 2px 2px 10px;
+    width: 300px;
+    border-radius: 5px;
+    bottom: 120px;
+    left: 120px;
+    background-color: white;
+    height: 200px;
+    font-size: larger;
+}
+.button4{
+    color: rgb(88, 181, 88);
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    width: 300px;
+    font-size:medium;
+    position: relative;
+    top: 40px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.p13{
+    position: relative;
+    top: 30px;
+}
+.rightpart2{
+    position: relative;
+    left: 800px;
+    bottom: 1020px;
+}
+.task12{
+    display: block;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(44, 41, 41);
+    bottom: 1700px;
+    background-color: rgb(245, 245, 245);
+    height: 500px;
+}
+.p14{
+    position: relative;
+    font-size: 400%;
+    top: 100px;
+
+}
+.button5{
+    position: relative;
+    top: 160px;
+    width: 190px;
+    height: 60px;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight:600;
+    cursor: pointer;
+}
+.task13{
+    display: block;
+    position: absolute;
+    background-color: #263238;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1500px;
+    top: 4100px;
+    height: 700px;
+}
+.p15{
+    color: white;
+    position: absolute;
+    left: 130px;
+    top: 20px;
+    font-size: 55px;
+}
+.p16{
+    color: white;
+    position: absolute;
+    top: 180px;
+    left: 130px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.p17{
+    color: white;
+    position: absolute;
+    top: 260px;
+    left: 130px;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.img11{
+    position: absolute;
+    top: 400px;
+   
+    
+}
+.img111{
+   position: absolute;
+   left: 50px;
+   
+}
+.img112{
+    position: absolute;
+    left: 120px;
+}
+.img113{
+    position: absolute;
+    left: 190px;
+}
+.img114{
+    position: absolute;
+    left: 260px;
+}
+.p18{
+    color: white;
+    position: absolute;
+    left: 600px;
+    top: 60px;
+    font-size: 35px;
+}
+.button6{
+    background-color: #263238;
+    position: absolute;
+    left: 560px;
+    top: 220px;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+}
+.button7{
+    background-color: #263238;
+    position: absolute;
+    left: 542px;
+    top: 310px;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+
+}
+.button8{
+    background-color: #263238;
+    position: absolute;
+    left: 570px;
+    top: 410px;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+}
+.button9{
+    background-color: #263238;
+    position: absolute;
+    left: 558px;
+    top: 510px;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+}
+.button10{
+    background-color: #263238;
+    position: absolute;
+    left: 583px;
+    top: 610px;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+}
+.p19{
+    color: white;
+    position: absolute;
+    left: 850px;
+    top: 62px;
+    font-size: 35px;
+
+}
+.button11{
+    background-color: #263238;
+    position: absolute;
+    left: 820px;
+    top: 220px;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+}
+.button12{
+    background-color: #263238;
+    position: absolute;
+    left: 840px;
+    top: 310px;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+}
+.button13{
+    background-color: #263238;
+    position: absolute;
+    left: 800px;
+    top: 410px;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+}
+.button14{
+    background-color: #263238;
+    position: absolute;
+    left: 840px;
+    top: 510px;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+}
+.button15{
+    background-color: #263238;
+    position: absolute;
+    left: 810px;
+    top: 610px;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+}
+.p20{
+    color: white;
+    position: absolute;
+    left: 1100px;
+    top: 60px;
+    font-size: 35px;
+}
+.overall{
+    max-height:4800px;
+    max-width: 100%;
+}
+.inputbox1{
+    background-color:  #263238;
+    position: absolute;
+    left: 1100px;
+    top: 200px;
+    
+}
+.inputbox11{
+    height:50px; 
+    width: 280px; 
+    border-radius: 10px;
+    border-color: #010101 ;
+    background-color: #535e63;
+    font-size:medium ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttonimg{
+   position: absolute;
+   left: 1350px;
+   top: 215px;
+   background-color: #535e63;
+}
+
+button:hover{
+    color:olive;
+    transition: 1s;
+
+}
+li:hover{
+    color:chartreuse;
+    transition: 1s;
+    
+   
+}
+.task1{
+    width: 900px;
+}
+                                                                                                                                                     
+
+
+
+
+
